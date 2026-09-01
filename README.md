@@ -1,6 +1,9 @@
 # update_system_windows
 Интерактивный CMD-скрипт для удобного обновления программ в Windows через WinGet. ( An interactive CMD script for easily updating programs in Windows using WinGet.)
 <img width="1919" height="650" alt="vlf" src="https://github.com/user-attachments/assets/48226504-be6a-4513-aca6-3b83075a5265" />
+
+<img width="1210" height="551" alt="Работа_скрипта" src="https://github.com/user-attachments/assets/68da26d7-8ff8-4b53-86ff-997c468e16d8" />
+
 Скрипт решает проблему безопасного обновления программ в Windows. В браузерах есть риск подхватить вирус или нежелательное ПО. Мой скрипт упрощает этот процесс и обеспечивает безопасность: он забирает обновления напрямую из официальных репозиториях Microsoft в одно действие, тем самым экономя время как обычным пользователям, так и тем кто ценит сохранность своего компьютера ( и да он работает с Eng расскладкой) 
 
 ### Но так же есть и минус.

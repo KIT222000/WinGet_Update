@@ -4,6 +4,8 @@
 >Работает в интерактивном режиме и не требует каких то скачиваний просто можно выбрать то что хотите обновить и обновляете себе спокойно
 
 ## 📸 Демонстрация работы 
+<img width="1081" height="551" alt="gif" src="https://github.com/user-attachments/assets/cf0f1006-ca17-44cf-8f22-18f362be835c" />
+
 <img width="1018" height="521" alt="Menu" src="https://github.com/user-attachments/assets/8a624418-bfe0-4554-a72e-b22824ffe9b1" />
 
 <img width="998" height="506" alt="Checking for updates" src="https://github.com/user-attachments/assets/40294bea-b970-4602-afeb-8ae4eb04c795" />
